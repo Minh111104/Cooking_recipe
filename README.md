@@ -37,3 +37,21 @@ This is a simple web application that serves delicious taco recipes using Expres
     ```bash
     http://localhost:3000
     ```
+
+# Project Structure
+```bash
+├── public/         # Static assets (CSS, images)
+├── views/          # EJS templates
+├── routes/         # Express routes
+├── data/           # JSON storage for recipes
+├── app.js          # Main application file
+├── package.json    # Project metadata and dependencies
+├── README.md       # Project documentation
+```
+
+# Usage
+
+- Open the homepage to browse taco recipes.
+- Click on a recipe to view details.
+- Use the form to add new recipes.
+- Edit or delete recipes as needed.
