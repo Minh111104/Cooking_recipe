@@ -57,4 +57,4 @@ This is a simple web application that serves delicious taco recipes using Expres
 - Edit or delete recipes as needed.
 
 # License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+This project is created for educational purpose.
