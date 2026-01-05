@@ -1,5 +1,5 @@
 # Cooking_recipe 👨‍🍳
-This is a simple web application that serves delicious taco recipes using Express.js, EJS templating, and JSON for data storage.
+This is a simple web application that serves delicious cooking recipes using Express.js, EJS templating, and JSON for data storage.
 
 # Features
 
